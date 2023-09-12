@@ -1,0 +1,21 @@
+Cdplaya2144@
+Name: Clarence
+Address :109 springhaven ct
+Age :27
+TASK 1 :go to store
+TARGET 1 :buy groceries
+TASK 2 :get haircut
+TARGET 2 :look good
+TASK 3 :do homework
+TARGET 3 :finish by 9pm
+TASK 4 :download music
+TARGET 4 :for long car ride
+TASK 5 :mix music
+TARGET 5 :get good
+2023-09-11 11:38:47.529229
+COMPLETED TASK 
+1
+ONGOING TASK 
+2345
+NOT YET STARTED
+2345
